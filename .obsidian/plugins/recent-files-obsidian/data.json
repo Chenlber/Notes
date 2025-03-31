@@ -1,0 +1,204 @@
+{
+  "recentFiles": [
+    {
+      "basename": "啊temp",
+      "path": "啊temp.md"
+    },
+    {
+      "basename": "啊日志",
+      "path": "啊日志.md"
+    },
+    {
+      "basename": "啊常用",
+      "path": "啊常用.md"
+    },
+    {
+      "basename": "环境变量配置",
+      "path": "git py lilnux/环境变量配置.md"
+    },
+    {
+      "basename": "jmeter安装inMac",
+      "path": "性能测试学习/jmeter/jmeter安装inMac.md"
+    },
+    {
+      "basename": "jemter自动化撰写",
+      "path": "性能测试学习/jmeter/jemter自动化撰写.md"
+    },
+    {
+      "basename": "待办",
+      "path": "待办.md"
+    },
+    {
+      "basename": "每日三省吾身",
+      "path": "每日三省吾身.md"
+    },
+    {
+      "basename": "数据库基操",
+      "path": "数据库基操.md"
+    },
+    {
+      "basename": "一致性",
+      "path": "一致性.md"
+    },
+    {
+      "basename": "数据库基础",
+      "path": "数据库原理学习/腾讯云考试/数据库基础.md"
+    },
+    {
+      "basename": "majority写",
+      "path": "数据库原理学习/分布式特性/majority写.md"
+    },
+    {
+      "basename": "lukatai",
+      "path": "数据库原理学习/常用操作总结/lukatai.md"
+    },
+    {
+      "basename": "一级list",
+      "path": "建行突发/一级list.md"
+    },
+    {
+      "basename": "200并发jmeter core",
+      "path": "202410/200并发jmeter core.md"
+    },
+    {
+      "basename": "title",
+      "path": "视频/title.md"
+    },
+    {
+      "basename": "gdb",
+      "path": "git py lilnux/gdb.md"
+    },
+    {
+      "basename": "git,py,linux基操",
+      "path": "git py lilnux/git,py,linux基操.md"
+    },
+    {
+      "basename": "rocky",
+      "path": "202503/rocky.md"
+    },
+    {
+      "basename": "更新db和proxy版本",
+      "path": "性能测试学习/workload/更新db和proxy版本.md"
+    },
+    {
+      "basename": "招行网联",
+      "path": "202503/招行网联.md"
+    },
+    {
+      "basename": "仿真周报",
+      "path": "202503/仿真周报.md"
+    },
+    {
+      "basename": "管控测试",
+      "path": "202502/管控测试.md"
+    },
+    {
+      "basename": "招行仿真",
+      "path": "202502/招行仿真.md"
+    },
+    {
+      "basename": "建行用例化 与 workload迁移",
+      "path": "202502/建行用例化 与 workload迁移.md"
+    },
+    {
+      "basename": "大数据量导入工程化",
+      "path": "202503/大数据量导入工程化.md"
+    },
+    {
+      "basename": "mysql后台执行以及输出日志",
+      "path": "202503/mysql后台执行以及输出日志.md"
+    },
+    {
+      "basename": "第三周问答",
+      "path": "数据库原理学习/问答环节/第三周问答.md"
+    },
+    {
+      "basename": "双周会--组内与专项性能工程中心",
+      "path": "202503/双周会--组内与专项性能工程中心.md"
+    },
+    {
+      "basename": "perf定时脚本",
+      "path": "性能测试学习/perf定时脚本.md"
+    },
+    {
+      "basename": "大文本插入错误解决",
+      "path": "性能测试学习/workload/银河证券wl/大文本插入错误解决.md"
+    },
+    {
+      "basename": "二级hash-range",
+      "path": "建行突发/建行虚拟列workload/二级hash-range.md"
+    },
+    {
+      "basename": "zk使用",
+      "path": "性能测试学习/zk/zk使用.md"
+    },
+    {
+      "basename": "数据库信创背景",
+      "path": "202501/数据库信创背景.md"
+    },
+    {
+      "basename": "计算汇总Innodb插入行数",
+      "path": "202501/计算汇总Innodb插入行数.md"
+    },
+    {
+      "basename": "0120待办",
+      "path": "202501/0120待办.md"
+    },
+    {
+      "basename": "image-20240715153334584",
+      "path": "数据库基操.assets/image-20240715153334584.png"
+    },
+    {
+      "basename": "image-20240930163200318",
+      "path": "202410/intel上复现db增长.assets/image-20240930163200318.png"
+    },
+    {
+      "basename": "松哥工具",
+      "path": "202503/松哥工具.md"
+    },
+    {
+      "basename": "image-20241011173745580",
+      "path": "202410/db22.6.5回退到22.4.1全局索引表损坏.assets/image-20241011173745580.png"
+    },
+    {
+      "basename": "提供给麒麟的insert H压缩表",
+      "path": "202410/提供给麒麟的insert H压缩表.md"
+    },
+    {
+      "basename": "![[提供给麒麟的insert",
+      "path": "202410/![[提供给麒麟的insert.md"
+    },
+    {
+      "basename": "提供给麒麟的insert",
+      "path": "202410/提供给麒麟的insert.md"
+    },
+    {
+      "basename": "中建数科执行计划复现",
+      "path": "202410/中建数科执行计划复现.md"
+    },
+    {
+      "basename": "typora迁移到obsidian",
+      "path": "202503/typora迁移到obsidian.md"
+    },
+    {
+      "basename": "透明压测Lz4+全局索引表测试",
+      "path": "202410/透明压测Lz4+全局索引表测试.md"
+    },
+    {
+      "basename": "db22.6.5回退到22.4.1全局索引表损坏",
+      "path": "202410/db22.6.5回退到22.4.1全局索引表损坏.md"
+    },
+    {
+      "basename": "db22.6.5回退到22.4.1全局索引表损坏",
+      "path": "202410/db22.6.5回退到22.4.1全局索引表损坏.pdf"
+    },
+    {
+      "basename": "intel上复现db增长",
+      "path": "202410/intel上复现db增长.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

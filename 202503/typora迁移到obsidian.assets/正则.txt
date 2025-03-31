@@ -1,0 +1,28 @@
+![](提供给麒麟的insert H压缩表.assets/image-20241022142940671.png)
+![[提供给麒麟的insert H压缩表.assets/image-20241022142940671.png]]
+
+
+"\!\[\[XXX/Pasted image (.+).png\]\]"->"![](XXX/Pasted%20image%20$1.png)"
+
+"\!\[\[提供给麒麟的insert H压缩表.assets/(.+).png\]\]"->"![](提供给麒麟的insert H压缩表.assets/$1.png)"
+
+"\!\[\[提供给麒麟的insert H压缩表.assets/(.+).png\]\]"->"![](提供给麒麟的insert%20H压缩表.assets/$1.png)"
+
+\!\[.*\](提供给麒麟的insert%20H压缩表.assets/(.+).png)
+\!\[\[提供给麒麟的insert H压缩表.assets/(.+).png\]\]
+
+![image-20241022145936391](提供给麒麟的insert H压缩表.assets/image-20241022145936391-1756532.png)
+替换为
+![[提供给麒麟的insert H压缩表.assets/image-20241022145936391.png]]
+
+
+![](提供给麒麟的insert H压缩表.assets/image-20241022142940671-1756530.png)
+替换为
+![[提供给麒麟的insert H压缩表.assets/image-20241022142940671.png]]
+
+
+
+
+!\[([^\]]*)\]\((.*?)(-\d+)?\.png\)
+
+![[$2.png]]

@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "1fa90c51ac28d338",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf766b9ca7952f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72546e40f8d52a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "啊temp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "啊temp"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dae947d36d31ceef",
+    "type": "split",
+    "children": [
+      {
+        "id": "911902a10378ba0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e5dde5145d864c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1f4cabdb1f8be41c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jmeter",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "433d78c1398759de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "12e5cc5cfd77a511",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5
+  },
+  "right": {
+    "id": "3195b302fdc4ada9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dada948c1ddba523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c39845ad64c3140",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "待办.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 待办"
+            }
+          },
+          {
+            "id": "fa08236e45bb04ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "待办.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 待办"
+            }
+          },
+          {
+            "id": "ead7269aeb5a0b05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9661cfbe8c03440d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "待办.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 待办"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "hide-folders:Show hidden folders": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "72546e40f8d52a8b",
+  "lastOpenFiles": [
+    "一些想法/胡言乱语.md",
+    "一些想法/v2rayN.md",
+    "一些想法/brainStorm.md",
+    "一些想法",
+    "README.md",
+    "MdGrammar/images/2022-09-22-09-34-17.png",
+    "MdGrammar/images/2022-09-22-09-28-01.png",
+    "MdGrammar/other.md",
+    "MdGrammar/learnMdGrammar.md",
+    "MdGrammar/images",
+    "MdGrammar/QQ图片20180909230830.jpg",
+    "MdGrammar",
+    "3.txt",
+    "啊日志.md",
+    "啊temp.md",
+    "啊常用.md",
+    "git py lilnux/环境变量配置.md",
+    "公司工具等/接入drop.md",
+    "性能测试学习/jmeter/jmeter安装inMac.md",
+    "性能测试学习/jmeter/jemter自动化撰写.md",
+    "待办.md",
+    "每日三省吾身.md",
+    "数据库基操.md",
+    "一致性.md",
+    "数据库原理学习/腾讯云考试/数据库基础.md",
+    "proxy22.3.14db22.6.5.pdf",
+    "数据库原理学习/分布式特性/majority写.md",
+    "数据库原理学习/常用操作总结/lukatai.md",
+    "建行突发/一级list.md",
+    "Users/lukatai/Library/Application.md",
+    "202410/200并发jmeter core.md",
+    "视频/title.md",
+    "git py lilnux/gdb.md",
+    "git py lilnux/git,py,linux基操.md",
+    "git py lilnux/git,py,linux基操.assets",
+    "git py lilnux",
+    "202503/typora迁移到obsidian.assets/正则.txt",
+    "202503/rocky.assets/file-20250313144338442.png",
+    "202503/rocky.assets",
+    "数据库基操.assets/image-20240715153334584.png",
+    "202410/intel上复现db增长.assets/image-20240930163200318.png",
+    "202410/db22.6.5回退到22.4.1全局索引表损坏.assets/image-20241011173745580.png",
+    "性能测试学习/jmeter/jmeter安装inMac.assets/image-20241118141612231.png",
+    "性能测试学习/jmeter/jmeter安装inMac.assets/image-20240823111421526.png",
+    "性能测试学习/jmeter/jmeter安装inMac.assets/image-20240823111159336.png",
+    "性能测试学习/jmeter/jmeter安装inMac.assets"
+  ]
+}
